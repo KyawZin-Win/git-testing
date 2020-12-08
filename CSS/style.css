@@ -1,4 +1,12 @@
 h1{
-    color: blueviolet;
-    background-color: cornflowerblue;
+    color: white;
+    background-color: gray;
+    text-align: center;
+}
+p{
+    color: white;
+}
+
+body{
+    background-color: black;
 }
